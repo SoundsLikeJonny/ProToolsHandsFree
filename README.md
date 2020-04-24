@@ -31,7 +31,14 @@ Notice the microphone on the right? Clicking 'show' will allow you to see the av
 ## The 'freeze' Command
 'Freeze' will cause the program to stop listening until you say 'keep listening'
 
-## 'Finished'
+## Say 'Finished' when done
 Saying 'finished' will end the program
 
 > Note: You may notice that the microphone sticks around for a while after the program closes, but it will eventually go away.  
+
+## Close the Applet Without Voice By Using 'Force Quit'
+
+Currently there is no other way to close the program without the 'finished' voice command
+
+<img src="https://scontent.fyvr3-1.fna.fbcdn.net/v/t1.15752-9/94190615_238233577292288_2730490617657294848_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_oc=AQl9dr8fQmDk2-PodyMnxXS0TICF_0Gtl9csBmAheZy-riKa3V6oqxk2kcAdZgX6E2u3_Q5X3cDQLVqTzXEPsPLq&_nc_ht=scontent.fyvr3-1.fna&oh=644c43c70548658fe5f25a0d116cdea6&oe=5EC8C3B0">
+;
