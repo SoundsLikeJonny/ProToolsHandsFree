@@ -1,4 +1,4 @@
-# Pro-Tools-Hands-Free
+# Pro Tools Hands-Free
 Control Pro Tools with your voice! A simple applet that uses voice commands to emulate key commands on Mac OS and control Pro Tools UI elements 
 
 > Note: You can use the script to work with another DAW if you wish. Just change the 'tell' blocks to work with your DAW's UI Elements
